@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 change from main branch
+=======
+Change from feature branch
+>>>>>>> d6f1e82 (Modified conflict.txt in feature branch)
